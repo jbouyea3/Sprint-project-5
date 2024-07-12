@@ -23,8 +23,8 @@ The project is divided into three main parts: Profits & Losses, Advertising, and
 
 ## Link to Tableau Public
 Share the link to your Tableau Public workbook here:
-[Tableau Public Workbook](https://public.tableau.com/app/profile/jonquis.d.bouyea/viz/StorytellingwithDataProject_17204852488910/Story12?publish=yes)
-
+- [Tableau Public Workbook](https://public.tableau.com/app/profile/jonquis.d.bouyea/viz/StorytellingwithDataProject_17204852488910/Story12?publish=yes)
+- [Prenentation to workbook](https://www.loom.com/share/d3362a69dfb840cca8fcf582c01f0e7e?sid=f9dddf11-2f89-4705-be8b-ca080e1c748a)
 ## Files Included
 - `README.md`
 - Any additional files (mention them here)
