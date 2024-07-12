@@ -29,8 +29,10 @@ Share the link to your Tableau Public workbook here:
 - `README.md`
 - Any additional files (mention them here)
   - `SuperstoreData.xlsx`
-  - `ProfitsAndLosses.png`
-  - `AdvertisingCosts.png`
+  - `Mock 1 Dashboard layout.png`
+  - `Mock 2 Dashboard layout.png`
+  - `Final Dashboard layout.png`
+
   - `ReturnedItems.png`
 
 ## Instructions for Reviewers
