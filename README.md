@@ -33,8 +33,6 @@ Share the link to your Tableau Public workbook here:
   - `Mock 2 Dashboard layout.png`
   - `Final Dashboard layout.png`
 
-  - `ReturnedItems.png`
-
 ## Instructions for Reviewers
 1. Open the `README.md` file to understand the project structure and overview.
 2. Follow the link to Tableau Public to explore the interactive visualizations.
